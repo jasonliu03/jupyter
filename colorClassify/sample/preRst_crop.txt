@@ -1,0 +1,1056 @@
+2   ./black/face_dev_18508.jpg
+0   ./black/face_dev_17279.png
+5   ./black/face_dev_17160.png
+1   ./black/face_dev_17770.png
+2   ./black/face_dev_17526.png
+1   ./black/face_dev_18315.png
+0   ./black/face_dev_19156.png
+1   ./black/face_dev_17172.png
+2   ./black/face_dev_15868.png
+0   ./black/face_dev_17283.png
+5   ./black/face_dev_17573.png
+0   ./black/face_dev_16385.png
+2   ./black/face_dev_18405.jpg
+0   ./black/face_dev_16081.png
+5   ./black/face_dev_16066.png
+1   ./black/face_dev_19151.png
+1   ./black/face_dev_19009.jpg
+5   ./black/face_dev_15531.png
+5   ./black/face_dev_15812.png
+5   ./black/face_dev_17277.png
+2   ./black/face_dev_18824.png
+2   ./black/face_dev_16051.png
+1   ./black/face_dev_16858.png
+5   ./black/face_dev_18721.png
+5   ./black/face_dev_17454.png
+1   ./black/face_dev_17807.png
+2   ./black/face_dev_16327.png
+2   ./black/face_dev_18382.png
+0   ./black/face_dev_16127.png
+5   ./black/face_dev_16912.png
+0   ./black/face_dev_19141.jpg
+0   ./black/face_dev_18133.jpg
+1   ./black/face_dev_18325.png
+1   ./black/face_dev_16717.png
+1   ./black/face_dev_16690.png
+2   ./black/face_dev_18816.png
+2   ./black/face_dev_18559.jpg
+0   ./black/face_dev_19162.jpg
+2   ./black/face_dev_16997.png
+2   ./black/face_dev_18108.jpg
+1   ./black/face_dev_17566.png
+1   ./black/face_dev_17339.png
+5   ./black/face_dev_17538.png
+0   ./black/face_dev_17281.png
+2   ./black/face_dev_18814.png
+1   ./black/face_dev_16963.png
+2   ./black/face_dev_18799.png
+5   ./black/face_dev_17287.png
+1   ./black/face_dev_18338.png
+0   ./black/face_dev_19192.jpg
+2   ./black/face_dev_18512.jpg
+0   ./black/face_dev_17515.png
+0   ./black/face_dev_19113.jpg
+5   ./black/face_dev_17034.png
+2    ./cyan/face_dev_15466.png
+2    ./cyan/face_dev_18951.jpg
+2    ./cyan/face_dev_17844.png
+2    ./cyan/face_dev_19014.jpg
+1    ./cyan/face_dev_16213.png
+2    ./cyan/face_dev_17874.png
+4    ./cyan/face_dev_18629.png
+2    ./cyan/face_dev_15490.png
+4    ./cyan/face_dev_17108.png
+2    ./cyan/face_dev_15541.png
+4    ./cyan/face_dev_16763.png
+4    ./cyan/face_dev_16166.png
+2    ./cyan/face_dev_16039.png
+4    ./cyan/face_dev_15980.png
+1    ./cyan/face_dev_16211.png
+4    ./cyan/face_dev_19073.png
+2    ./cyan/face_dev_17011.png
+4    ./cyan/face_dev_16697.png
+4    ./cyan/face_dev_17092.png
+2    ./cyan/face_dev_18820.png
+4    ./cyan/face_dev_16702.png
+4    ./cyan/face_dev_16090.png
+2    ./cyan/face_dev_19069.png
+4    ./cyan/face_dev_18695.png
+4    ./cyan/face_dev_19064.png
+1    ./cyan/face_dev_16181.png
+2    ./cyan/face_dev_16363.png
+1    ./cyan/face_dev_19053.png
+2    ./cyan/face_dev_16383.png
+1    ./cyan/face_dev_15716.png
+4    ./cyan/face_dev_16945.png
+1    ./cyan/face_dev_16295.png
+2    ./cyan/face_dev_16388.png
+2    ./cyan/face_dev_16353.png
+4    ./cyan/face_dev_19054.png
+2    ./cyan/face_dev_16072.png
+2    ./cyan/face_dev_18567.jpg
+2    ./cyan/face_dev_16774.png
+2    ./cyan/face_dev_17038.png
+4    ./cyan/face_dev_19051.png
+2    ./cyan/face_dev_17799.png
+4    ./cyan/face_dev_16568.png
+2    ./cyan/face_dev_16109.png
+4    ./cyan/face_dev_19071.png
+4    ./cyan/face_dev_18719.png
+1  ./normal/face_dev_17180.png
+1  ./normal/face_dev_16655.png
+2  ./normal/face_dev_17465.png
+1  ./normal/face_dev_16046.png
+1  ./normal/face_dev_16253.png
+1  ./normal/face_dev_16635.png
+2  ./normal/face_dev_16060.png
+1  ./normal/face_dev_19149.png
+1  ./normal/face_dev_18420.png
+1  ./normal/face_dev_15780.png
+1  ./normal/face_dev_16490.png
+1  ./normal/face_dev_16748.png
+1  ./normal/face_dev_16549.png
+1  ./normal/face_dev_15584.png
+4  ./normal/face_dev_18964.png
+4  ./normal/face_dev_16413.png
+4  ./normal/face_dev_17126.png
+2  ./normal/face_dev_17168.png
+1  ./normal/face_dev_17938.png
+1  ./normal/face_dev_16323.png
+1  ./normal/face_dev_18287.png
+1  ./normal/face_dev_16088.png
+1  ./normal/face_dev_17615.png
+1  ./normal/face_dev_17441.png
+1  ./normal/face_dev_15693.png
+1  ./normal/face_dev_16277.png
+1  ./normal/face_dev_19117.jpg
+2  ./normal/face_dev_18264.png
+2  ./normal/face_dev_18207.png
+1  ./normal/face_dev_16155.png
+2  ./normal/face_dev_17400.png
+2  ./normal/face_dev_17943.png
+1  ./normal/face_dev_15805.png
+1  ./normal/face_dev_18622.png
+1  ./normal/face_dev_18220.png
+1  ./normal/face_dev_18585.png
+2  ./normal/face_dev_17898.png
+1  ./normal/face_dev_17591.png
+1  ./normal/face_dev_15958.png
+4  ./normal/face_dev_17112.png
+1  ./normal/face_dev_18810.jpg
+0  ./normal/face_dev_16129.png
+1  ./normal/face_dev_17598.png
+1  ./normal/face_dev_16500.png
+1  ./normal/face_dev_15927.png
+1  ./normal/face_dev_15695.png
+2  ./normal/face_dev_16124.png
+5  ./normal/face_dev_18703.png
+0  ./normal/face_dev_16115.png
+1  ./normal/face_dev_16275.png
+1  ./normal/face_dev_19134.jpg
+0  ./normal/face_dev_19107.jpg
+1  ./normal/face_dev_16355.png
+1  ./normal/face_dev_18413.jpg
+4  ./normal/face_dev_16586.png
+1  ./normal/face_dev_17457.png
+1  ./normal/face_dev_17560.png
+1  ./normal/face_dev_16467.png
+4  ./normal/face_dev_18161.jpg
+1  ./normal/face_dev_17182.png
+1  ./normal/face_dev_18407.jpg
+1  ./normal/face_dev_18364.png
+1  ./normal/face_dev_16343.png
+1  ./normal/face_dev_19198.png
+1  ./normal/face_dev_18301.png
+4  ./normal/face_dev_17412.png
+1  ./normal/face_dev_16310.png
+1  ./normal/face_dev_17490.png
+2  ./normal/face_dev_18949.jpg
+1  ./normal/face_dev_17548.png
+1  ./normal/face_dev_15826.png
+1  ./normal/face_dev_17446.png
+5  ./normal/face_dev_16632.png
+1  ./normal/face_dev_17568.png
+1  ./normal/face_dev_16291.png
+1  ./normal/face_dev_16337.png
+1  ./normal/face_dev_16268.png
+1  ./normal/face_dev_16293.png
+4  ./normal/face_dev_16669.png
+1  ./normal/face_dev_18871.png
+1  ./normal/face_dev_17452.png
+4  ./normal/face_dev_17417.png
+1  ./normal/face_dev_17003.png
+1  ./normal/face_dev_16515.png
+1  ./normal/face_dev_15856.png
+1  ./normal/face_dev_16101.png
+1  ./normal/face_dev_18084.jpg
+0  ./normal/face_dev_16228.png
+1  ./normal/face_dev_18608.png
+2  ./normal/face_dev_15571.png
+1  ./normal/face_dev_16578.png
+1  ./normal/face_dev_17892.png
+1  ./normal/face_dev_17361.png
+1  ./normal/face_dev_19219.png
+1  ./normal/face_dev_16079.png
+1  ./normal/face_dev_18461.png
+1  ./normal/face_dev_16587.png
+1  ./normal/face_dev_15648.png
+1  ./normal/face_dev_18850.jpg
+1  ./normal/face_dev_16064.png
+2  ./normal/face_dev_18942.jpg
+4  ./normal/face_dev_16726.png
+1  ./normal/face_dev_18390.jpg
+4  ./normal/face_dev_16345.png
+1  ./normal/face_dev_18570.png
+1  ./normal/face_dev_18924.png
+1  ./normal/face_dev_17923.png
+1  ./normal/face_dev_17519.png
+4  ./normal/face_dev_16671.png
+1  ./normal/face_dev_15832.png
+1  ./normal/face_dev_16312.png
+0  ./normal/face_dev_17264.png
+1  ./normal/face_dev_16325.png
+1  ./normal/face_dev_16647.png
+1  ./normal/face_dev_17355.png
+1  ./normal/face_dev_17036.png
+2  ./normal/face_dev_17945.png
+1  ./normal/face_dev_18170.png
+1  ./normal/face_dev_15564.png
+1  ./normal/face_dev_17664.png
+0  ./normal/face_dev_19179.png
+1  ./normal/face_dev_17371.png
+1  ./normal/face_dev_17627.png
+1  ./normal/face_dev_18345.png
+2  ./normal/face_dev_15484.png
+2  ./normal/face_dev_16969.png
+1  ./normal/face_dev_17149.png
+2  ./normal/face_dev_18241.png
+1  ./normal/face_dev_17291.png
+1  ./normal/face_dev_16767.png
+1  ./normal/face_dev_15849.png
+1  ./normal/face_dev_16147.png
+1  ./normal/face_dev_18753.jpg
+4  ./normal/face_dev_18073.jpg
+1  ./normal/face_dev_15876.png
+1  ./normal/face_dev_18557.png
+2  ./normal/face_dev_18216.png
+1  ./normal/face_dev_18077.jpg
+2  ./normal/face_dev_18688.png
+1  ./normal/face_dev_17443.png
+1  ./normal/face_dev_16486.png
+4  ./normal/face_dev_17411.png
+1  ./normal/face_dev_15597.png
+2  ./normal/face_dev_18709.png
+1  ./normal/face_dev_15834.png
+1  ./normal/face_dev_17459.png
+1  ./normal/face_dev_17449.png
+0  ./normal/face_dev_15837.png
+4  ./normal/face_dev_17895.png
+1  ./normal/face_dev_16474.png
+1  ./normal/face_dev_16273.png
+1  ./normal/face_dev_17785.png
+1  ./normal/face_dev_16653.png
+2  ./normal/face_dev_18218.png
+1  ./normal/face_dev_16370.png
+1  ./normal/face_dev_17521.png
+1  ./normal/face_dev_16604.png
+0  ./normal/face_dev_15990.png
+1  ./normal/face_dev_16367.png
+2  ./normal/face_dev_16113.png
+1  ./normal/face_dev_18299.jpg
+1  ./normal/face_dev_17596.png
+1  ./normal/face_dev_18308.png
+2  ./normal/face_dev_18205.png
+1  ./normal/face_dev_16264.png
+1  ./normal/face_dev_17917.png
+1  ./normal/face_dev_16537.png
+2  ./normal/face_dev_16407.png
+1  ./normal/face_dev_19204.png
+2  ./normal/face_dev_16335.png
+1  ./normal/face_dev_18256.png
+1  ./normal/face_dev_17600.png
+1  ./normal/face_dev_17463.png
+1  ./normal/face_dev_15850.png
+1  ./normal/face_dev_16022.png
+2  ./normal/face_dev_18147.png
+1  ./normal/face_dev_16169.png
+1  ./normal/face_dev_15547.png
+1  ./normal/face_dev_17041.png
+1  ./normal/face_dev_17593.png
+1  ./normal/face_dev_18440.jpg
+1  ./normal/face_dev_16333.png
+2  ./normal/face_dev_17164.png
+1  ./normal/face_dev_17607.png
+1  ./normal/face_dev_15830.png
+1  ./normal/face_dev_17613.png
+1  ./normal/face_dev_15699.png
+1  ./normal/face_dev_17609.png
+2  ./normal/face_dev_17151.png
+1  ./normal/face_dev_19187.png
+2  ./normal/face_dev_15478.png
+1  ./normal/face_dev_18425.png
+1  ./normal/face_dev_17575.png
+1  ./normal/face_dev_16226.png
+4  ./normal/face_dev_16885.png
+2  ./normal/face_dev_17166.png
+1  ./normal/face_dev_15588.png
+1  ./normal/face_dev_17652.png
+1  ./normal/face_dev_15586.png
+1  ./normal/face_dev_15704.png
+1  ./normal/face_dev_16606.png
+1  ./normal/face_dev_16643.png
+1  ./normal/face_dev_18087.jpg
+1  ./normal/face_dev_16596.png
+1  ./normal/face_dev_16028.png
+2  ./normal/face_dev_16439.png
+1  ./normal/face_dev_18322.png
+5  ./normal/face_dev_18712.png
+1  ./normal/face_dev_16339.png
+1  ./normal/face_dev_15775.png
+1  ./normal/face_dev_18377.png
+1  ./normal/face_dev_18957.png
+1  ./normal/face_dev_15758.png
+1  ./normal/face_dev_18418.png
+1  ./normal/face_dev_17402.png
+2  ./normal/face_dev_15762.png
+1  ./normal/face_dev_15839.png
+4  ./normal/face_dev_16661.png
+1  ./normal/face_dev_15613.png
+1  ./normal/face_dev_17558.png
+1  ./normal/face_dev_18547.png
+2  ./normal/face_dev_15556.png
+1  ./normal/face_dev_18416.jpg
+1  ./normal/face_dev_18104.jpg
+1  ./normal/face_dev_15778.png
+1  ./normal/face_dev_16592.png
+1  ./normal/face_dev_17650.png
+1  ./normal/face_dev_18359.png
+1  ./normal/face_dev_16757.png
+2  ./normal/face_dev_17461.png
+1  ./normal/face_dev_17433.png
+2  ./normal/face_dev_18928.png
+4  ./normal/face_dev_16519.png
+1  ./normal/face_dev_18906.png
+0  ./normal/face_dev_18225.png
+2  ./normal/face_dev_18262.png
+2  ./normal/face_dev_15539.png
+2  ./normal/face_dev_18373.png
+2  ./normal/face_dev_18126.jpg
+1  ./normal/face_dev_17236.png
+1  ./normal/face_dev_18100.jpg
+1  ./normal/face_dev_16612.png
+4  ./normal/face_dev_16923.png
+1  ./normal/face_dev_17178.png
+1  ./normal/face_dev_17131.png
+1  ./normal/face_dev_18411.jpg
+1  ./normal/face_dev_16973.png
+1  ./normal/face_dev_19185.jpg
+1  ./normal/face_dev_15499.png
+1  ./normal/face_dev_16651.png
+1  ./normal/face_dev_19047.jpg
+0  ./normal/face_dev_15753.png
+2  ./normal/face_dev_18096.jpg
+4  ./normal/face_dev_16784.png
+4  ./normal/face_dev_16479.png
+0  ./normal/face_dev_17925.png
+1  ./normal/face_dev_17135.png
+1  ./normal/face_dev_17624.png
+1  ./normal/face_dev_16305.png
+1  ./normal/face_dev_16318.png
+1  ./normal/face_dev_16535.png
+1  ./normal/face_dev_18873.png
+1  ./normal/face_dev_18864.png
+2  ./normal/face_dev_17221.png
+1  ./normal/face_dev_16839.png
+0  ./normal/face_dev_15669.png
+4  ./normal/face_dev_16828.png
+1  ./normal/face_dev_16107.png
+1  ./normal/face_dev_17123.png
+1  ./normal/face_dev_17005.png
+1  ./normal/face_dev_16843.png
+1  ./normal/face_dev_16608.png
+1  ./normal/face_dev_16415.png
+2  ./normal/face_dev_18409.jpg
+1  ./normal/face_dev_17677.png
+2  ./normal/face_dev_15503.png
+4  ./normal/face_dev_16808.png
+2  ./normal/face_dev_18497.jpg
+0  ./normal/face_dev_15566.png
+2  ./normal/face_dev_17577.png
+1  ./normal/face_dev_17407.png
+4  ./normal/face_dev_16706.png
+1  ./normal/face_dev_17902.png
+0     ./red/face_dev_15599.png
+0     ./red/face_dev_18885.png
+0     ./red/face_dev_17046.png
+0     ./red/face_dev_15764.png
+1     ./red/face_dev_18733.png
+0     ./red/face_dev_15951.png
+0     ./red/face_dev_15432.png
+1     ./red/face_dev_16035.png
+0     ./red/face_dev_18962.png
+0     ./red/face_dev_17553.png
+0     ./red/face_dev_16621.png
+1     ./red/face_dev_17864.png
+0     ./red/face_dev_18124.jpg
+0     ./red/face_dev_18209.png
+0     ./red/face_dev_16246.png
+1     ./red/face_dev_16786.png
+0     ./red/face_dev_17746.png
+0     ./red/face_dev_17366.png
+0     ./red/face_dev_16224.png
+0     ./red/face_dev_15799.png
+0     ./red/face_dev_19189.jpg
+0     ./red/face_dev_15529.png
+1     ./red/face_dev_17866.png
+0     ./red/face_dev_18422.jpg
+0     ./red/face_dev_15820.png
+0     ./red/face_dev_15525.png
+0     ./red/face_dev_16238.png
+0     ./red/face_dev_17116.png
+0     ./red/face_dev_15921.png
+0     ./red/face_dev_17052.png
+0     ./red/face_dev_17421.png
+0     ./red/face_dev_15788.png
+0     ./red/face_dev_16220.png
+2     ./red/face_dev_16483.png
+1     ./red/face_dev_16901.png
+0     ./red/face_dev_17422.png
+1     ./red/face_dev_16015.png
+0     ./red/face_dev_17638.png
+0     ./red/face_dev_17551.png
+0     ./red/face_dev_18740.png
+0     ./red/face_dev_15439.png
+2     ./red/face_dev_19172.png
+0     ./red/face_dev_17498.png
+1     ./red/face_dev_16906.png
+0     ./red/face_dev_16070.png
+2     ./red/face_dev_18763.jpg
+0     ./red/face_dev_17170.png
+0     ./red/face_dev_19132.jpg
+1     ./red/face_dev_15523.png
+0     ./red/face_dev_18151.png
+0     ./red/face_dev_19199.jpg
+0     ./red/face_dev_15437.png
+0     ./red/face_dev_19194.png
+0     ./red/face_dev_18442.jpg
+0     ./red/face_dev_18758.png
+0     ./red/face_dev_15517.png
+0     ./red/face_dev_19153.png
+0     ./red/face_dev_19111.jpg
+0     ./red/face_dev_15601.png
+0     ./red/face_dev_18841.png
+1     ./red/face_dev_16803.png
+1     ./red/face_dev_16869.png
+1     ./red/face_dev_15845.png
+0     ./red/face_dev_19181.jpg
+0     ./red/face_dev_19115.jpg
+0     ./red/face_dev_19122.jpg
+0     ./red/face_dev_15482.png
+0     ./red/face_dev_17887.png
+0     ./red/face_dev_19171.png
+0     ./red/face_dev_15745.png
+1     ./red/face_dev_18325.png
+0     ./red/face_dev_18137.jpg
+0     ./red/face_dev_19083.jpg
+0     ./red/face_dev_17110.png
+0     ./red/face_dev_15956.png
+0     ./red/face_dev_15790.png
+0     ./red/face_dev_18257.png
+1     ./red/face_dev_17801.png
+1     ./red/face_dev_16853.png
+1     ./red/face_dev_18251.png
+0     ./red/face_dev_18802.png
+0     ./red/face_dev_18637.png
+0     ./red/face_dev_16880.png
+0     ./red/face_dev_18384.png
+1     ./red/face_dev_16999.png
+0     ./red/face_dev_19202.jpg
+0     ./red/face_dev_18641.png
+0     ./red/face_dev_16856.png
+0     ./red/face_dev_19206.jpg
+1     ./red/face_dev_16834.png
+1     ./red/face_dev_19212.png
+1     ./red/face_dev_16270.png
+0     ./red/face_dev_19158.jpg
+0     ./red/face_dev_18679.png
+2     ./red/face_dev_18482.jpg
+0     ./red/face_dev_17064.png
+0     ./red/face_dev_15519.png
+0     ./red/face_dev_19093.jpg
+0     ./red/face_dev_16961.png
+1     ./red/face_dev_17620.png
+1     ./red/face_dev_15847.png
+2     ./red/face_dev_18909.png
+0     ./red/face_dev_17308.png
+0     ./red/face_dev_15730.png
+0     ./red/face_dev_18438.jpg
+1     ./red/face_dev_18846.png
+0     ./red/face_dev_16140.png
+1     ./red/face_dev_16245.png
+1     ./red/face_dev_16905.png
+0     ./red/face_dev_19169.jpg
+1     ./red/face_dev_18773.png
+0     ./red/face_dev_15751.png
+0     ./red/face_dev_17861.png
+0     ./red/face_dev_18303.png
+2     ./red/face_dev_18723.png
+1     ./red/face_dev_17876.png
+0     ./red/face_dev_16259.png
+0     ./red/face_dev_16845.png
+1     ./red/face_dev_17436.png
+0     ./red/face_dev_18131.jpg
+0     ./red/face_dev_15842.png
+0     ./red/face_dev_17137.png
+0     ./red/face_dev_17201.png
+0     ./red/face_dev_17139.png
+1     ./red/face_dev_18079.jpg
+1     ./red/face_dev_15660.png
+2   ./white/face_dev_16435.png
+4   ./white/face_dev_17658.png
+4   ./white/face_dev_16527.png
+2   ./white/face_dev_16425.png
+1   ./white/face_dev_15801.png
+4   ./white/face_dev_16566.png
+4   ./white/face_dev_17321.png
+2   ./white/face_dev_17009.png
+1   ./white/face_dev_17174.png
+4   ./white/face_dev_17373.png
+2   ./white/face_dev_19065.png
+4   ./white/face_dev_17318.png
+1   ./white/face_dev_16541.png
+4   ./white/face_dev_16514.png
+2   ./white/face_dev_15495.png
+4   ./white/face_dev_16132.png
+4   ./white/face_dev_18222.jpg
+4   ./white/face_dev_17791.png
+1   ./white/face_dev_16673.png
+4   ./white/face_dev_18392.jpg
+0   ./white/face_dev_16232.png
+1   ./white/face_dev_17079.png
+1   ./white/face_dev_18765.png
+4   ./white/face_dev_16533.png
+1   ./white/face_dev_16547.png
+4   ./white/face_dev_18289.jpg
+2   ./white/face_dev_16481.png
+4   ./white/face_dev_15860.png
+4   ./white/face_dev_16823.png
+4   ./white/face_dev_18367.png
+4   ./white/face_dev_17209.png
+4   ./white/face_dev_16755.png
+4   ./white/face_dev_15971.png
+4   ./white/face_dev_18066.jpg
+0   ./white/face_dev_17762.png
+4   ./white/face_dev_18328.png
+4   ./white/face_dev_16144.png
+1   ./white/face_dev_16576.png
+2   ./white/face_dev_17390.png
+2   ./white/face_dev_17869.png
+4   ./white/face_dev_16794.png
+4   ./white/face_dev_16597.png
+4   ./white/face_dev_16574.png
+1   ./white/face_dev_16287.png
+1   ./white/face_dev_18973.png
+4   ./white/face_dev_18163.jpg
+4   ./white/face_dev_18371.png
+1   ./white/face_dev_17768.png
+4   ./white/face_dev_16511.png
+1   ./white/face_dev_15608.png
+4   ./white/face_dev_16848.png
+1   ./white/face_dev_18454.jpg
+1   ./white/face_dev_16158.png
+2   ./white/face_dev_18494.jpg
+4   ./white/face_dev_16734.png
+2   ./white/face_dev_17176.png
+4   ./white/face_dev_16862.png
+1   ./white/face_dev_16458.png
+1   ./white/face_dev_18899.png
+4   ./white/face_dev_15773.png
+4   ./white/face_dev_16875.png
+4   ./white/face_dev_16523.png
+2   ./white/face_dev_18578.jpg
+2   ./white/face_dev_17438.png
+4   ./white/face_dev_16830.png
+4   ./white/face_dev_15652.png
+1   ./white/face_dev_17805.png
+4   ./white/face_dev_18960.png
+2   ./white/face_dev_16492.png
+4   ./white/face_dev_16160.png
+1   ./white/face_dev_16618.png
+4   ./white/face_dev_17058.png
+2   ./white/face_dev_16396.png
+4   ./white/face_dev_16556.png
+5   ./white/face_dev_16641.png
+1   ./white/face_dev_16639.png
+1   ./white/face_dev_16826.png
+1   ./white/face_dev_16250.png
+2   ./white/face_dev_16122.png
+4   ./white/face_dev_16590.png
+2   ./white/face_dev_16728.png
+1   ./white/face_dev_17562.png
+4   ./white/face_dev_16620.png
+1   ./white/face_dev_16379.png
+0   ./white/face_dev_17306.png
+4   ./white/face_dev_15655.png
+1   ./white/face_dev_16279.png
+4   ./white/face_dev_16729.png
+4   ./white/face_dev_16750.png
+1   ./white/face_dev_18284.png
+4   ./white/face_dev_17106.png
+4   ./white/face_dev_15569.png
+4   ./white/face_dev_16517.png
+1   ./white/face_dev_16570.png
+1   ./white/face_dev_16266.png
+1   ./white/face_dev_16285.png
+2   ./white/face_dev_16359.png
+4   ./white/face_dev_17144.png
+1   ./white/face_dev_16675.png
+4   ./white/face_dev_18331.png
+1   ./white/face_dev_16814.png
+1   ./white/face_dev_19183.png
+1   ./white/face_dev_15771.png
+1   ./white/face_dev_16316.png
+1   ./white/face_dev_16564.png
+1   ./white/face_dev_17633.png
+2   ./white/face_dev_18118.jpg
+4   ./white/face_dev_15511.png
+1   ./white/face_dev_19210.png
+4   ./white/face_dev_16183.png
+1   ./white/face_dev_15535.png
+1   ./white/face_dev_15718.png
+4   ./white/face_dev_18756.jpg
+1   ./white/face_dev_17871.png
+1   ./white/face_dev_16543.png
+4   ./white/face_dev_16631.png
+4   ./white/face_dev_16419.png
+0   ./white/face_dev_18347.jpg
+4   ./white/face_dev_17644.png
+4   ./white/face_dev_16582.png
+1   ./white/face_dev_18627.png
+1   ./white/face_dev_16657.png
+4   ./white/face_dev_15450.png
+4   ./white/face_dev_16965.png
+1   ./white/face_dev_16314.png
+1   ./white/face_dev_16835.png
+1   ./white/face_dev_18237.png
+2  ./yellow/face_dev_16637.png
+2  ./yellow/face_dev_16594.png
+2  ./yellow/face_dev_15492.png
+2  ./yellow/face_dev_18092.jpg
+2  ./yellow/face_dev_18866.png
+1  ./yellow/face_dev_16545.png
+2  ./yellow/face_dev_16357.png
+2  ./yellow/face_dev_18064.jpg
+1  ./yellow/face_dev_17640.png
+2  ./yellow/face_dev_18862.png
+1  ./yellow/face_dev_15442.png
+2  ./yellow/face_dev_16037.png
+2  ./yellow/face_dev_16456.png
+2  ./yellow/face_dev_16713.png
+0  ./yellow/face_dev_18228.png
+2  ./yellow/face_dev_17544.png
+2  ./yellow/face_dev_16770.png
+2  ./yellow/face_dev_16053.png
+2  ./yellow/face_dev_17604.png
+2  ./yellow/face_dev_16409.png
+2  ./yellow/face_dev_16991.png
+4  ./yellow/face_dev_17226.png
+2  ./yellow/face_dev_16789.png
+1  ./yellow/face_dev_18129.jpg
+2  ./yellow/face_dev_17380.png
+2  ./yellow/face_dev_16889.png
+1  ./yellow/face_dev_16659.png
+4  ./yellow/face_dev_17142.png
+1  ./yellow/face_dev_17146.png
+1  ./yellow/face_dev_17556.png
+0  ./yellow/face_dev_15604.png
+2  ./yellow/face_dev_18561.jpg
+2  ./yellow/face_dev_17821.png
+2  ./yellow/face_dev_18501.jpg
+2  ./yellow/face_dev_15606.png
+2  ./yellow/face_dev_15513.png
+2  ./yellow/face_dev_18180.png
+0  ./yellow/face_dev_17223.png
+2  ./yellow/face_dev_16704.png
+1  ./yellow/face_dev_18686.png
+1  ./yellow/face_dev_19119.jpg
+2  ./yellow/face_dev_18826.png
+2  ./yellow/face_dev_16437.png
+1  ./yellow/face_dev_15925.png
+2  ./yellow/face_dev_16724.png
+2  ./yellow/face_dev_16098.png
+2  ./yellow/face_dev_15471.png
+2  ./yellow/face_dev_18845.png
+2  ./yellow/face_dev_18517.png
+1  ./yellow/face_dev_16822.png
+4  ./yellow/face_dev_16687.png
+2  ./yellow/face_dev_18793.png
+2  ./yellow/face_dev_17019.png
+1  ./yellow/face_dev_16895.png
+2  ./yellow/face_dev_17797.png
+2  ./yellow/face_dev_17828.png
+2  ./yellow/face_dev_15702.png
+2  ./yellow/face_dev_18868.png
+2  ./yellow/face_dev_16058.png
+2  ./yellow/face_dev_18249.png
+2  ./yellow/face_dev_16681.png
+1  ./yellow/face_dev_16663.png
+2  ./yellow/face_dev_18510.jpg
+2  ./yellow/face_dev_16624.png
+4  ./yellow/face_dev_19167.jpg
+4  ./yellow/face_dev_16645.png
+2  ./yellow/face_dev_16329.png
+2  ./yellow/face_dev_18148.png
+2  ./yellow/face_dev_16381.png
+2  ./yellow/face_dev_16077.png
+1  ./yellow/face_dev_15822.png
+2  ./yellow/face_dev_15575.png
+2  ./yellow/face_dev_16120.png
+2  ./yellow/face_dev_17432.png
+2  ./yellow/face_dev_16649.png
+1  ./yellow/face_dev_15862.png
+2  ./yellow/face_dev_16400.png
+1  ./yellow/face_dev_15444.png
+2  ./yellow/face_dev_17795.png
+2  ./yellow/face_dev_16341.png
+1  ./yellow/face_dev_18761.png
+0  ./yellow/face_dev_17285.png
+2  ./yellow/face_dev_16331.png
+1  ./yellow/face_dev_18975.jpg
+2  ./yellow/face_dev_16471.png
+2  ./yellow/face_dev_17243.png
+2  ./yellow/face_dev_16700.png
+1  ./yellow/face_dev_15714.png
+1  ./yellow/face_dev_16873.png
+2  ./yellow/face_dev_19214.png
+2  ./yellow/face_dev_16967.png
+2  ./yellow/face_dev_16442.png
+2  ./yellow/face_dev_17803.png
+2  ./yellow/face_dev_16197.png
+2  ./yellow/face_dev_16735.png
+2  ./yellow/face_dev_17388.png
+2  ./yellow/face_dev_18451.jpg
+1  ./yellow/face_dev_17602.png
+2  ./yellow/face_dev_16118.png
+1  ./yellow/face_dev_18075.jpg
+1  ./yellow/face_dev_17199.png
+2  ./yellow/face_dev_18235.png
+1  ./yellow/face_dev_17342.png
+2  ./yellow/face_dev_17809.png
+1  ./yellow/face_dev_15635.png
+2  ./yellow/face_dev_16715.png
+2  ./yellow/face_dev_16722.png
+2  ./yellow/face_dev_18883.png
+2  ./yellow/face_dev_17013.png
+2  ./yellow/face_dev_16525.png
+0  ./yellow/face_dev_15797.png
+2  ./yellow/face_dev_18275.jpg
+2  ./yellow/face_dev_16447.png
+2  ./yellow/face_dev_18614.png
+2  ./yellow/face_dev_18805.png
+2  ./yellow/face_dev_15766.png
+2  ./yellow/face_dev_16453.png
+2  ./yellow/face_dev_16464.png
+2  ./yellow/face_dev_15782.png
+2  ./yellow/face_dev_18456.jpg
+2  ./yellow/face_dev_16096.png
+2  ./yellow/face_dev_18860.png
+2  ./yellow/face_dev_17095.png
+2  ./yellow/face_dev_16765.png
+1  ./yellow/face_dev_16297.png
+2  ./yellow/face_dev_16427.png
+1  ./yellow/face_dev_16949.png
+2  ./yellow/face_dev_18601.png
+1  ./yellow/face_dev_17766.png
+2  ./yellow/face_dev_17654.png
+2  ./yellow/face_dev_16772.png
+2  ./yellow/face_dev_18106.jpg
+2  ./yellow/face_dev_16778.png
+2  ./yellow/face_dev_16074.png
+2  ./yellow/face_dev_17023.png
+2  ./yellow/face_dev_15473.png
+2  ./yellow/face_dev_16377.png
+2  ./yellow/face_dev_18486.jpg
+1  ./yellow/face_dev_18744.png
+4  ./yellow/face_dev_18878.jpg
+2  ./yellow/face_dev_17015.png
+2  ./yellow/face_dev_16033.png
+2  ./yellow/face_dev_17396.png
+1  ./yellow/face_dev_18202.png
+2  ./yellow/face_dev_16462.png
+2  ./yellow/face_dev_15507.png
+2  ./yellow/face_dev_16349.png
+2  ./yellow/face_dev_17368.png
+2  ./yellow/face_dev_18397.jpg
+4  ./yellow/face_dev_18582.png
+2  ./yellow/face_dev_16062.png
+2  ./yellow/face_dev_18401.jpg
+2  ./yellow/face_dev_17617.png
+2  ./yellow/face_dev_16761.png
+0  ./yellow/face_dev_15734.png
+2  ./yellow/face_dev_17540.png
+2  ./yellow/face_dev_16562.png
+1  ./yellow/face_dev_15554.png
+1  ./yellow/face_dev_15697.png
+2  ./yellow/face_dev_17021.png
+2  ./yellow/face_dev_18812.png
+2  ./yellow/face_dev_18620.png
+2  ./yellow/face_dev_17852.png
+2  ./yellow/face_dev_18839.png
+1  ./yellow/face_dev_16017.png
+2  ./yellow/face_dev_16433.png
+2  ./yellow/face_dev_17811.png
+2  ./yellow/face_dev_16629.png
+2  ./yellow/face_dev_17032.png
+2  ./yellow/face_dev_18731.png
+2  ./yellow/face_dev_17834.png
+1  ./yellow/face_dev_16520.png
+2  ./yellow/face_dev_16753.png
+2  ./yellow/face_dev_17832.png
+2  ./yellow/face_dev_18795.png
+2  ./yellow/face_dev_16977.png
+2  ./yellow/face_dev_15501.png
+2  ./yellow/face_dev_15543.png
+2  ./yellow/face_dev_18563.jpg
+2  ./yellow/face_dev_17890.png
+2  ./yellow/face_dev_16694.png
+2  ./yellow/face_dev_16488.png
+2  ./yellow/face_dev_15707.png
+2  ./yellow/face_dev_17815.png
+1  ./yellow/face_dev_16614.png
+2  ./yellow/face_dev_17536.png
+1  ./yellow/face_dev_15650.png
+1  ./yellow/face_dev_17266.png
+4  ./yellow/face_dev_16796.png
+2  ./yellow/face_dev_16679.png
+2  ./yellow/face_dev_16031.png
+2  ./yellow/face_dev_16431.png
+2  ./yellow/face_dev_16289.png
+2  ./yellow/face_dev_17813.png
+2  ./yellow/face_dev_16351.png
+2  ./yellow/face_dev_15533.png
+2  ./yellow/face_dev_16398.png
+2  ./yellow/face_dev_16164.png
+2  ./yellow/face_dev_16055.png
+2  ./yellow/face_dev_15828.png
+2  ./yellow/face_dev_17883.png
+1  ./yellow/face_dev_16281.png
+2  ./yellow/face_dev_18748.jpg
+2  ./yellow/face_dev_18843.png
+2  ./yellow/face_dev_16043.png
+2  ./yellow/face_dev_17878.png
+2  ./yellow/face_dev_16195.png
+2  ./yellow/face_dev_18856.png
+1  ./yellow/face_dev_18379.png
+1  ./yellow/face_dev_16300.png
+1  ./yellow/face_dev_15464.png
+2  ./yellow/face_dev_18822.png
+2  ./yellow/face_dev_15488.png
+2  ./yellow/face_dev_18399.jpg
+4  ./yellow/face_dev_15819.png
+2  ./yellow/face_dev_16417.png
+2  ./yellow/face_dev_16684.png
+2  ./yellow/face_dev_16572.png
+1  ./yellow/face_dev_17206.png
+2  ./yellow/face_dev_17375.png
+2  ./yellow/face_dev_17235.png
+2  ./yellow/face_dev_18499.jpg
+2  ./yellow/face_dev_18068.jpg
+2  ./yellow/face_dev_16553.png
+2  ./yellow/face_dev_18122.jpg
+2  ./yellow/face_dev_16421.png
+1  ./yellow/face_dev_18268.png
+2  ./yellow/face_dev_18818.png
+4  ./yellow/face_dev_15880.png
+2  ./yellow/face_dev_18471.jpg
+2  ./yellow/face_dev_16049.png
+2  ./yellow/face_dev_16429.png
+2  ./yellow/face_dev_15732.png
+1  ./yellow/face_dev_17512.png
+1  ./yellow/face_dev_16580.png
+2  ./yellow/face_dev_18239.png
+2  ./yellow/face_dev_16979.png
+2  ./yellow/face_dev_15527.png
+2  ./yellow/face_dev_15475.png
+2  ./yellow/face_dev_16445.png
+2  ./yellow/face_dev_16006.png
+2  ./yellow/face_dev_16719.png
+0  ./yellow/face_dev_17311.png
+2  ./yellow/face_dev_18947.png
+2  ./yellow/face_dev_16975.png
+2  ./yellow/face_dev_18506.jpg
+2  ./yellow/face_dev_16308.png
+2  ./yellow/face_dev_18484.jpg
+2  ./yellow/face_dev_17393.png
+2  ./yellow/face_dev_16068.png
+0  ./yellow/face_dev_16405.png
+4  ./yellow/face_dev_16850.png
+2  ./yellow/face_dev_15743.png
+
+
+ [ 90  30   6   0   0   0]
+ [ 13 199  44   0  24   3]
+ [  8  45 189   0  11   0]
+ [  0   6  21   0  18   0]
+ [  4  45  18   0  59   1]
+ [ 13  14  15   0   0  12]
+
+
+class 0       0.70      0.71      0.71       126
+class 1       0.59      0.70      0.64       283
+ class2       0.65      0.75      0.69       253
+ class3       0.00      0.00      0.00        45
+ class4       0.53      0.46      0.49       127
+ class5       0.75      0.22      0.34        54
+
+
+       A                                                                 \
+   count        mean       std      min        25%       50%        75%   
+y                                                                         
+0  126.0  138.278794  3.115378  130.218  136.07500  138.3315  140.10225   
+1  283.0  136.296530  2.630602  128.201  134.50650  136.5260  137.79950   
+2  253.0  136.475285  2.718825  127.381  134.81500  136.5480  138.45300   
+3   45.0  133.173111  2.629617  129.102  131.01000  132.5070  135.02400   
+4  127.0  133.728409  2.437811  128.685  131.91850  133.7210  135.31600   
+5   54.0  137.619593  3.631971  130.316  135.49725  138.2680  139.23425   
+
+                B                                                     \
+       max  count        mean       std      min       25%       50%   
+y                                                                      
+0  145.484  126.0  138.963294  5.965478  127.348  133.2915  140.0905   
+1  144.986  283.0  141.030477  4.773010  128.854  137.6560  141.5770   
+2  142.956  253.0  146.839277  5.883839  131.099  144.4230  147.7950   
+3  138.302   45.0  142.392422  5.613624  131.915  137.5970  141.7260   
+4  140.821  127.0  138.376189  4.985602  129.414  135.0235  137.3410   
+5  144.607   54.0  143.286704  4.866259  130.362  139.9220  144.2405   
+
+                         B1                                            \
+        75%      max  count        mean        std      min       25%   
+y                                                                       
+0  144.2260  152.332  126.0  137.113566  25.068566  91.9437  115.9080   
+1  144.3975  155.479  283.0  141.495462  23.784865  81.2427  124.6805   
+2  150.2780  165.100  253.0  125.794833  22.537886  78.1883  107.7250   
+3  148.4940  150.391   45.0  134.980407  26.215610  76.2059  113.5530   
+4  141.9815  153.447  127.0  157.441983  26.221241  65.8697  140.9010   
+5  146.4885  152.890   54.0  113.505194  18.696779  82.6950  101.1290   
+
+                                   G                                   \
+       50%       75%      max  count        mean        std       min   
+y                                                                       
+0  136.280  153.2875  195.438  126.0  145.583127  20.772631  106.6580   
+1  140.400  157.5320  204.338  283.0  154.973709  21.324127   95.3377   
+2  125.745  141.3060  210.911  253.0  147.689846  20.721944  101.6550   
+3  133.569  153.7420  185.875   45.0  151.429118  23.499983   96.4533   
+4  158.220  177.6475  209.974  127.0  168.303191  24.509025   76.9757   
+5  112.480  123.4490  168.379   54.0  129.048713  16.122128   97.1655   
+
+                                                H                        \
+         25%       50%        75%      max  count       mean        std   
+y                                                                         
+0  131.03725  143.9420  156.71675  195.644  126.0  33.156912  34.745636   
+1  138.47400  155.2240  168.95000  210.588  283.0  15.549878  10.164146   
+2  129.71900  146.8560  161.00200  213.404  253.0  16.029952   8.753720   
+3  135.64800  149.2070  170.97000  197.468   45.0  17.114184   3.528151   
+4  150.94200  169.0930  186.46350  215.107  127.0  18.849883  11.113312   
+5  117.72500  126.3495  141.41175  174.317   54.0  15.381024  13.295510   
+
+                                                          L              \
+        min        25%       50%       75%       max  count        mean   
+y                                                                         
+0   6.87047  10.026195  12.54845  53.24910  131.6690  126.0  138.538198   
+1   7.99494  11.239200  12.47480  14.30500   73.7566  283.0  150.693089   
+2   9.01451  13.369800  14.13960  15.06610   93.1943  253.0  143.365877   
+3  12.10800  14.985500  16.44310  17.56970   31.2640   45.0  140.784440   
+4   9.42531  12.990300  14.84450  18.32620   68.3404  127.0  163.079599   
+5   7.68298  10.868425  12.47145  14.02775   93.9514   54.0  121.714183   
+
+                                                                     R  \
+         std       min        25%       50%        75%      max  count   
+y                                                                        
+0  21.274293  102.4370  121.97275  138.0365  152.34775  194.521  126.0   
+1  22.093771   89.6812  133.33350  150.3740  169.37350  194.754  283.0   
+2  22.020552   85.0509  125.73900  143.6700  159.44800  202.845  253.0   
+3  24.380836   82.0913  123.96500  137.9860  162.51000  190.413   45.0   
+4  23.206121   84.2491  144.58400  168.5330  182.34550  198.466  127.0   
+5  18.904817   82.8884  108.42175  121.8420  135.55750  162.055   54.0   
+
+                                                                             \
+         mean        std       min        25%       50%        75%      max   
+y                                                                             
+0  168.232484  20.986804  130.5150  151.85850  165.9375  181.68925  222.278   
+1  176.587943  21.746024  110.5180  161.77000  176.8640  193.15250  228.857   
+2  172.384530  22.252310  113.3720  154.48100  171.2180  189.16500  223.283   
+3  166.643044  23.289468  105.7830  152.29400  165.6750  184.96400  223.418   
+4  183.358202  26.856307   88.0518  162.22800  186.0440  204.85700  228.499   
+5  153.275426  16.777874  107.0980  143.31825  152.5555  165.53125  191.121   
+
+       S                                                                  \
+   count       mean        std       min       25%       50%         75%   
+y                                                                          
+0  126.0  69.894621  28.061606  20.95410  43.97950  70.96565   95.530275   
+1  283.0  68.731965  22.828788   9.72829  52.52035  68.41550   85.817150   
+2  253.0  90.928030  24.302167  16.86970  76.94940  96.60970  107.582000   
+3   45.0  71.178033  28.179030  25.88820  49.09050  60.09870  101.320000   
+4  127.0  50.909294  21.444766   6.98276  35.30420  46.39670   63.559100   
+5   54.0  90.234004  24.092626  26.85250  75.02760  98.56100  107.953250   
+
+                V                                                        \
+       max  count        mean        std       min        25%       50%   
+y                                                                         
+0  121.508  126.0  153.688040  22.283199  116.1400  137.11700  149.4655   
+1  119.266  283.0  164.687562  23.623910  102.8760  146.42850  162.2580   
+2  132.928  253.0  160.188853  24.735211   91.9709  142.34300  158.8120   
+3  121.421   45.0  149.920760  24.929004   86.1432  133.20000  150.7650   
+4  104.206  127.0  172.031733  25.761446   97.1771  150.56100  178.6970   
+5  128.785   54.0  137.588954  21.408418   89.6030  126.55075  141.3605   
+
+                       
+         75%      max  
+y                      
+0  167.63075  213.510  
+1  183.60850  215.740  
+2  178.26500  220.862  
+3  166.74600  215.232  
+4  193.34200  219.332  
+5  150.50600  179.130  
+count    283.000000
+mean     136.296530
+std        2.630602
+min      128.201000
+25%      134.506500
+50%      136.526000
+75%      137.799500
+max      144.986000
+Name: A, dtype: float64
+count    126.000000
+mean     138.278794
+std        3.115378
+min      130.218000
+25%      136.075000
+50%      138.331500
+75%      140.102250
+max      145.484000
+Name: A, dtype: float64
+           y         R         G        B1         L         A         B  \
+y   1.000000 -0.021719  0.039022 -0.000939  0.024519 -0.273939  0.045656   
+R  -0.021719  1.000000  0.929622  0.797606  0.912595  0.157164  0.046475   
+G   0.039022  0.929622  1.000000  0.945758  0.919438 -0.177323 -0.235644   
+B1 -0.000939  0.797606  0.945758  1.000000  0.841652 -0.280568 -0.526995   
+L   0.024519  0.912595  0.919438  0.841652  1.000000 -0.085290 -0.178877   
+A  -0.273939  0.157164 -0.177323 -0.280568 -0.085290  1.000000  0.525885   
+B   0.045656  0.046475 -0.235644 -0.526995 -0.178877  0.525885  1.000000   
+H  -0.153703 -0.087371  0.078150  0.256396  0.025932 -0.247007 -0.540058   
+S  -0.023522 -0.211373 -0.499617 -0.718320 -0.468357  0.637136  0.924488   
+V  -0.022576  0.949466  0.852423  0.714924  0.957869  0.179406  0.058612   
+
+           H         S         V  
+y  -0.153703 -0.023522 -0.022576  
+R  -0.087371 -0.211373  0.949466  
+G   0.078150 -0.499617  0.852423  
+B1  0.256396 -0.718320  0.714924  
+L   0.025932 -0.468357  0.957869  
+A  -0.247007  0.637136  0.179406  
+B  -0.540058  0.924488  0.058612  
+H   1.000000 -0.487807 -0.103551  
+S  -0.487807  1.000000 -0.217929  
+V  -0.103551 -0.217929  1.000000 
